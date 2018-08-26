@@ -29,4 +29,7 @@ Fail to get the info of Pxxx ！字样
 
 ![image](https://github.com/ZerQAQ/luogu_crawler/blob/master/_data.png)
 
+百度网盘下载地址:
+[链接](https://pan.baidu.com/s/1Ix-7pp5rMpQbGwqMJt-cMA) 密码: 12rh
+
 作者：https://github.com/ZerQAQ
