@@ -27,6 +27,6 @@ Fail to get the info of Pxxx ！字样
 
 ![image](https://github.com/ZerQAQ/luogu_crawler/blob/master/tag.png)
 
-![image](https://github.com/ZerQAQ/luogu_crawler/blob/master/data.png)
+![image](https://github.com/ZerQAQ/luogu_crawler/blob/master/_data.png)
 
 作者：https://github.com/ZerQAQ
