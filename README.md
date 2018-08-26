@@ -23,4 +23,8 @@ Fail to get the info of Pxxx ！字样
 
 大致效果如下:
 
+![image](https://github.com/ZerQAQ/luogu_crawler/blob/master/strongth.png)
+
+![image](https://github.com/ZerQAQ/luogu_crawler/blob/master/tag.png)
+
 作者：https://github.com/ZerQAQ
